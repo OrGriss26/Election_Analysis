@@ -5,16 +5,35 @@
 
 We are completing an election audit for the Colorado Board of Elections.
 
+- - -
+
+### Purpose
+
 In this project, our Python script will need to be able to deliver the following information:
 
 *How many votes were cast in this congressional election?
+
+![Total_Votes.png](Total_Votes.png)
+
 *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+![County_Votes.png](County_Votes.png)
+
 *Which county had the largest number of votes?
+
+![Largest_Turnout.png](Largest_Turnout.png)
+
 *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+![Candidate_Votes_and_Percentage.png](Candidate_Votes_and_Percentage.png)
+
 *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+![Winner.png](Winner.png)
 
-## Summary
+- - -
+
+### Summary
 
 The analysis of the election shows:
 
